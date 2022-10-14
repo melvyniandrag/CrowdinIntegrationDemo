@@ -1,0 +1,1 @@
+C:\Users\melvy\Documents\CrowdinIntegrationDemo\CrowdinIntegrationDemo\CrowdinIntegrationDemo.csproj;x64
